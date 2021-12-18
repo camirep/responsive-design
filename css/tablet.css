@@ -1,0 +1,24 @@
+.plans-container--slider{
+    justify-content: center;
+    overflow: hidden;
+}
+
+.main-tables-container {
+    overflow: hidden;
+}
+
+
+.products-cards--container{
+    display: flex;
+    flex-direction: wrap;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom:50px;
+}
+.main-currency-table .currency-table--title-comission {
+    text-align: center;
+}
+
+.main-currency-table .currency-table--title{
+    text-align: center;
+}
